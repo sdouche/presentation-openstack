@@ -1,0 +1,28 @@
+{
+        "title": "OpenStack",
+        "author": "Sébastien Douche",
+        "theme": "memories",
+        "duration": 55,
+        "sections": {
+                "me": "Moi",
+		"goal": "Objectif",
+                "intro": "Introduction",
+                "foundation": "Fondation OpenStack",
+		"architecture": "Architecture",
+		"nova": "Nova (compute)",
+		"swift": "Swift (object storage)",
+		"glance": "Glance (image)",
+		"horizon": "Horizon (dashboard)",
+		"cinder": "Cinder (block storage)",
+		"keystone": "Keystone (auth)",
+		"quantum": "Quantum (network)",
+		"installation": "Installation",
+		"api": "API",
+		"cli": "CLI",
+		"vendors": "Fournisseurs",
+		"future": "Prochaine version",
+		"heart": "Heat (orchestration)",
+		"ceilometer": "Ceilometer (metering)",
+                "final": "Et enfin..."
+        }
+}
